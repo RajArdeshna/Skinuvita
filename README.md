@@ -1,3 +1,3 @@
-# Flutter BLE demo
+# Skinuvita BLE Demo
 
-This is a usage example of flutter_blue by writing an nRF connect like app.
+This Repository contains the demo code for a Flutter Android app and Firmware code for ESP32. The ESP32 communicates with the Android App over BLE.
